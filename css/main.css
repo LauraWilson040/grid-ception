@@ -18,11 +18,7 @@ html {
   box-sizing: inherit;
 }
 
-figure {
-  margin: 0;
-}
-
 .img-flex {
-  display: ;
-  width: ;
+  display: grid;
+  width: 100%;
 }
