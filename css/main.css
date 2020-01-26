@@ -18,7 +18,11 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
 .img-flex {
-  display: grid;
+  display: inline-block;
   width: 100%;
 }
