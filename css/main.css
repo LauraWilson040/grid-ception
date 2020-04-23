@@ -22,6 +22,11 @@ body {
   margin: 0;
 }
 
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .img-flex {
   display: block;
   width: 100%;
